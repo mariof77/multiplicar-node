@@ -1,11 +1,9 @@
-======================
-Multiplicar Consola App
-======================
+## Multiplicar Consola App 
 
 Esta es una aplicacion para generar archivos de tablas de multiplicar
 
 Ejecutar el comando 
 
-======================
+````
 npm install
-======================
+````
